@@ -1,0 +1,6 @@
+{
+  "name": "KAVA - Collaborative Memory Capsules",
+  "description": "A collaborative memory platform where people preserve moments together through photos, videos, wishes, and voice notes.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
